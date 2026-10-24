@@ -1,0 +1,43 @@
+EXECUTIVE EMPLOYMENT AGREEMENT
+
+THIS EMPLOYMENT AGREEMENT ("Agreement") is entered into as of November 15, 2025 ("Effective Date"), by and between:
+
+EMPLOYER: TechNova Solutions Private Limited, a corporation organized under the laws of India, having its registered office at Koramangala, Bengaluru, Karnataka 560034 (hereinafter referred to as the "Company");
+
+AND
+
+EMPLOYEE: Aarav Sharma, residing at Indiranagar, Bengaluru, Karnataka (hereinafter referred to as the "Employee").
+
+RECITALS:
+WHEREAS, the Company desires to employ the Employee as Lead Distributed Systems Architect, and the Employee agrees to accept such employment upon the terms and conditions hereinafter set forth.
+
+NOW, THEREFORE, the parties mutually agree as follows:
+
+1. POSITION AND COMMENCEMENT
+1.1 Position: The Employee shall serve as Lead Distributed Systems Architect reporting directly to the Vice President of Engineering.
+1.2 Commencement Date: The Employee's active employment shall commence on November 15, 2025 ("Joining Date").
+
+2. COMPENSATION AND SIGN-ON BONUS
+2.1 Base Salary: The Company agrees to pay Employee an annual gross base salary of INR 48,00,000 (Rupees Forty-Eight Lakhs only), payable in equal monthly installments.
+2.2 One-Time Joining Bonus: In consideration of the Employee joining the Company and committing to long-term tenure, the Company shall disburse a one-time gross joining bonus of INR 5,00,000 (Rupees Five Lakhs only) along with the first month's payroll.
+
+3. BONUS REPAYMENT & CLAWBACK OBLIGATION
+3.1 Clawback Conditions: The sign-on bonus is contingent upon the Employee completing a minimum tenure of twenty-four (24) continuous months of service with the Company from the Joining Date.
+3.2 Tiered Clawback Schedule:
+    (a) If the Employee tenders voluntary resignation, abandons employment, or is terminated for Cause within twelve (12) months from the Joining Date (i.e., on or before November 14, 2026), the Employee is legally obligated to refund one hundred percent (100%), being INR 5,00,000 (Rupees Five Lakhs), of the gross sign-on bonus to the Company within thirty (30) calendar days of the resignation notice date.
+    (b) If such departure occurs after twelve (12) months but prior to the completion of twenty-four (24) months (i.e., between November 15, 2026 and November 14, 2027), the Employee shall refund fifty percent (50%), being INR 2,50,000 (Rupees Two Lakhs Fifty Thousand), within thirty (30) calendar days.
+3.3 Authorization of Withholding: The Employee explicitly authorizes the Company to deduct any outstanding clawback amount from any final salary dues, accrued vacation settlement, or gratuity payable upon separation.
+
+4. SEPARATION AND NOTICE PERIOD
+4.1 Notice Period: Either party may terminate employment without cause by delivering ninety (90) calendar days' written notice to the other party.
+4.2 Transition Deliverables: During the notice period, the Employee shall rigorously conduct knowledge transfer sessions, document all technical architectures, and ensure smooth handover of production repository access.
+
+5. RESTRICTIVE COVENANTS
+5.1 Confidentiality: The Employee shall safeguard all trade secrets, source code, and proprietary algorithms during and indefinitely following employment.
+5.2 Non-Solicitation: For a period of twenty-four (24) months post-separation, the Employee shall not solicit any employee, contractor, client, or vendor of the Company.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+TechNova Solutions Pvt. Ltd.             Employee:
+By: Priya Nair, VP HR                    By: Aarav Sharma
+Date: November 15, 2025                  Date: November 15, 2025

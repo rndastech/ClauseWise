@@ -1,0 +1,25 @@
+# Environment variables & secrets
+.env
+*.env
+*.env.local
+
+# SQLite Database & Storage
+*.db
+*.sqlite
+*.sqlite3
+backend/clausewise.db
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache
+.venv/
+env/
+venv/
+
+# Node & Frontend dependencies
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
