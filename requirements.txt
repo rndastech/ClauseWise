@@ -1,0 +1,10 @@
+fastapi>=0.110.0
+uvicorn>=0.34.0
+sarvamai>=0.1.37
+sqlalchemy>=2.0.0
+apscheduler>=3.11.0
+python-dotenv>=1.0.0
+pydantic>=2.10.0
+PyMuPDF>=1.26.0
+python-multipart>=0.0.20
+requests>=2.32.0
